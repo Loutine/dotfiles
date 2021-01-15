@@ -1,0 +1,57 @@
+
+-------- SESSION 2021-01-10T14:43:59.192Z (10.2.1+202008051959, linux, x64, 8259342336, XMind Ltd., vana_linux_64) --------
+[I 2021-01-10T14:43:59.246Z main:store:plugins:memento] Migration start
+[I 2021-01-10T14:43:59.248Z main:store:plugins:memento] Migration stop, vud directory doesn't exist
+[I 2021-01-10T14:43:59.248Z main:store:plugins:memento] Migration completed [] . used time: 0 sec.
+[I 2021-01-10T14:43:59.249Z main:store:plugins:memento] Migration 2 start
+[I 2021-01-10T14:43:59.249Z main:store:plugins:memento] Migration 2 completed.
+[I 2021-01-10T14:43:59.249Z main:store:plugins:memento] Migration 3 start
+[I 2021-01-10T14:43:59.249Z main:store:plugins:memento] perMachineLicense.json Reading...
+[I 2021-01-10T14:43:59.249Z main:store:plugins:memento] Migration 3 completed.
+[I 2021-01-10T14:43:59.275Z main:store:plugins:iap] The user is not allowed to make in-app purchase.
+[I 2021-01-10T14:43:59.552Z main:store:plugins:electron] Application will finish launching.
+[I 2021-01-10T14:43:59.564Z main:store:plugins:electron] Application arguments: ["/opt/XMind/xmind","/home/loutine/Desktop/涉外警务学-绪论.xmind"]
+[I 2021-01-10T14:43:59.577Z main:store:plugins:electron] Application is ready.
+[I 2021-01-10T14:43:59.765Z main:store:plugins:electron] Device ID: 0dbde987-9b56-4b12-9352-3fa28583ea77
+[I 2021-01-10T14:44:05.650Z main:store:plugins:open-handler] Recover: Map {}
+[I 2021-01-10T14:44:05.653Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2021-01-10T14:44:05.654Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-01-10T14:44:05.654Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2021-01-10T14:44:05.655Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2021-01-10T14:44:05.666Z main:store:plugins:open-handler] Open: file:///home/loutine/Desktop/%E6%B6%89%E5%A4%96%E8%AD%A6%E5%8A%A1%E5%AD%A6-%E7%BB%AA%E8%AE%BA.xmind
+[W 2021-01-10T14:44:05.858Z main:store:plugins:electron] Failed to load pricing: Error: Request to https://www.xmind.cn/_res/get-zen-price?p=vana_linux_64&v=10.2.1.202008051959&os=linux&ar=x64&nl=zh-CN failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:130147)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/opt/XMind/resources/electron.asar/browser/api/net.js:90:24)
+[E 2021-01-10T14:44:05.861Z Notification] Error: Request to https://www.xmind.net/_api/events?p=vana_linux_64&v=10.2.1.202008051959&ar=x64&nl=zh-CN&ac=trial&lic=&ts0=null&ts1=null&ts2=null&ts3=null&os=linux&version=10.2.1&buildid=10.2.1.202008051959&arch=x64&distrib=vana_linux_64&account_type=trial&license_info=&firstStartTimestamp=null&startTimestamp1=null&startTimestamp2=null&startTimestamp3=null failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:130147)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/opt/XMind/resources/electron.asar/browser/api/net.js:90:24)
+[E 2021-01-10T14:44:11.874Z new] Failed to get library items: { name: 'Error' }
+[E 2021-01-10T14:44:11.877Z new] Failed to get library items: { name: 'Error' }
+[I 2021-01-10T14:44:16.118Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-01-10T14:44:16.131Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2021-01-10T14:44:16.223Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2021-01-10T14:44:16.331Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[W 2021-01-10T14:44:59.775Z UsageTracker] Send fail: Error: Request to https://piwik.xmind.net/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:130147)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/opt/XMind/resources/electron.asar/browser/api/net.js:90:24)
+[I 2021-01-10T14:45:05.657Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-01-10T14:45:05.659Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2021-01-10T14:45:34.686Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-01-10T14:45:37.581Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/XMind/resources/app.asar/renderer/editor-frame.html?frameId=2&_apr=default
+[I 2021-01-10T14:45:37.675Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2021-01-10T14:45:37.739Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-01-10T14:45:37.739Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2021-01-10T14:45:37.780Z main:store:plugins:editors:EditorFrame] Frame 2 webContents destroyed
+[I 2021-01-10T14:45:37.843Z main:store:plugins:electron] All documents are closed.
+[I 2021-01-10T14:45:37.843Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2021-01-10T14:45:37.843Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2021-01-10T14:45:37.848Z main:store:plugins:electron] Application is intended to quit.
+[I 2021-01-10T14:45:37.848Z main:store:plugins:electron] Application will quit.
+[I 2021-01-10T14:45:37.848Z main:store:plugins:electron] Application quitted.
+[W 2021-01-10T14:45:37.849Z UsageTracker] Send fail: Error: Request to https://piwik.xmind.net/piwik.php failed, reason: net::ERR_INTERNET_DISCONNECTED
+    at ClientRequest.<anonymous> (/opt/XMind/resources/app.asar/main/main.js:30:130147)
+    at ClientRequest.emit (events.js:194:13)
+    at URLRequest._emitRequestEvent (/opt/XMind/resources/electron.asar/browser/api/net.js:90:24)

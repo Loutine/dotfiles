@@ -1,0 +1,45 @@
+{
+    "000000000000": {
+        "connections": [
+            "yvvpucgrmwpv",
+            "wahoptebavgp",
+            "btkvspnncbln",
+            "iyxyzqybwjcd",
+            "wtutrammrfwj",
+            "kvxrruulgvyh",
+            "jyscgkgxcdjk",
+            "nnlqpdylecev",
+            "ddqcdtbqefww",
+            "rcmfmqrrtdmy",
+            "mzdbricadszu",
+            "cakitcndxcjx",
+            "kvovzpoqkxyb",
+            "nmqwrascnaxo",
+            "aeybahxzjgkx",
+            "itozttgdvptv",
+            "fmkidsqigjjv",
+            "sgwkcxmpgbrb",
+            "sdazgpjifgil",
+            "dnfxfdvczyer",
+            "vdouksmcpvtw",
+            "gflugiwvjssw",
+            "ypjkzajqqgvh",
+            "sivoxoiqulju"
+        ],
+        "creationDate": 1610276250,
+        "displayName": "默认分组",
+        "isSubscription": true,
+        "lastUpdatedDate": 1610618097,
+        "routeConfigId": "jbiretewmjll",
+        "subscriptionOption": {
+            "ExcludeKeywords": [
+            ],
+            "ExcludeRelation": 0,
+            "IncludeKeywords": [
+            ],
+            "IncludeRelation": 1,
+            "address": "https://link.zycsj.net/api/v1/client/subscribe?token=582e1267e1b40f1034c21985a5b58f6c",
+            "updateInterval": 1
+        }
+    }
+}
