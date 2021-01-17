@@ -64,7 +64,7 @@
                 "vnext": [
                     {
                         "address": "gdcm.strayvm.app",
-                        "port": 301,
+                        "port": 304,
                         "users": [
                             {
                                 "alterId": 1,
@@ -145,7 +145,7 @@
                 },
                 "wsSettings": {
                     "headers": {
-                        "Host": "hk02.strayvm.app"
+                        "Host": "hk05.strayvm.app"
                     },
                     "path": "/sil"
                 }
