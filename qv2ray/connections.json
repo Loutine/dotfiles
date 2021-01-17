@@ -13,13 +13,13 @@
         "creationDate": 1610276281,
         "displayName": "Silver-香港01",
         "importSource": 1,
-        "lastConnected": 1610687923,
+        "lastConnected": 1610694536,
         "lastUpdatedDate": 1610276281,
-        "latency": 34,
+        "latency": 31,
         "stats": [
             {
-                "downLinkData": 37878741,
-                "upLinkData": 1080959
+                "downLinkData": 47241953,
+                "upLinkData": 74680531
             }
         ]
     },
@@ -87,13 +87,13 @@
         "creationDate": 1610276281,
         "displayName": "Silver-香港02",
         "importSource": 1,
-        "lastConnected": 1610480613,
+        "lastConnected": 1610768308,
         "lastUpdatedDate": 1610276281,
-        "latency": 59,
+        "latency": 33,
         "stats": [
             {
-                "downLinkData": 34812240,
-                "upLinkData": 2797865
+                "downLinkData": 102959564,
+                "upLinkData": 4448305
             }
         ]
     },
